@@ -22,4 +22,5 @@ This project is a simple web application that fetches data from the JSONPlacehol
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone
+(https://github.com/ABDUL-CS3001/api-list-search.git)
